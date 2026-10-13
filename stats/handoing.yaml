@@ -1,25 +1,26 @@
 username: handoing
-updatedAt: 2026-10-13T09:32:51.818Z
+updatedAt: 2026-10-13T09:34:14.046Z
 skills: {}
 interventions:
-  sessions: 7
+  sessions: 8
   interrupt: 0
   toolReject: 0
   correction: 0
-prompts: 11
+prompts: 12
 tokens:
-  input: 315519
-  output: 80348
-  cacheRead: 19734016
+  input: 334539
+  output: 80447
+  cacheRead: 19846377
   cacheCreation: 0
 daily:
   2026-10-13:
-    sessionsEnded: 3
-    sessionsSucceeded: 3
-    promptTurns: 9
-    durationMs: 2941125
+    sessionsEnded: 4
+    sessionsSucceeded: 4
+    promptTurns: 10
+    durationMs: 2981387
     sessionsCorrected: 0
-    pricedRequests: 0
-    costMicros: 0
-    cacheReadTokens: 19734016
-    cacheEligibleInputTokens: 20049535
+    pricedRequests: 1
+    costMicros: 61502
+    cacheReadTokens: 19846377
+    cacheEligibleInputTokens: 20180916
+    priceVersion: anthropic-2026-09-09
